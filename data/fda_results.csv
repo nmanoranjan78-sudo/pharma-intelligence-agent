@@ -1,0 +1,6 @@
+drug_name,brand_name,manufacturer,product_type,route,substance_name,source,retrieved_date
+semaglutide,"OZEMPIC, RYBELSUS","Novo Nordisk Pharmaceutical Industries, LP",HUMAN PRESCRIPTION DRUG,ORAL,SEMAGLUTIDE,openFDA API,2026-06-21
+semaglutide,Ozempic,A-S Medication Solutions,HUMAN PRESCRIPTION DRUG,SUBCUTANEOUS,SEMAGLUTIDE,openFDA API,2026-06-21
+semaglutide,Ozempic,"Novo Nordisk Pharmaceutical Industries, LP",HUMAN PRESCRIPTION DRUG,SUBCUTANEOUS,SEMAGLUTIDE,openFDA API,2026-06-21
+semaglutide,OZEMPIC,A-S Medication Solutions,HUMAN PRESCRIPTION DRUG,SUBCUTANEOUS,SEMAGLUTIDE,openFDA API,2026-06-21
+semaglutide,WEGOVY,"Novo Nordisk Pharmaceutical Industries, LP",HUMAN PRESCRIPTION DRUG,"SUBCUTANEOUS, ORAL",SEMAGLUTIDE,openFDA API,2026-06-21

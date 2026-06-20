@@ -1,0 +1,11 @@
+disease,drug_name,record_type,title_or_brand,status_or_manufacturer,phase_or_route,source,retrieved_date
+diabetes,,Clinical Trial,"A Single Site, Observational, Administered to Pregnant Women at High Risk for Gestational Diabetes Mellitus",UNKNOWN,,ClinicalTrials.gov API,2026-06-21
+diabetes,,Clinical Trial,An Observational Study of Risk Factors Influencing Glycemic Status and Optimized Treatment on Post-chronic Pancreatitis Diabetes Mellitus,ACTIVE_NOT_RECRUITING,,ClinicalTrials.gov API,2026-06-21
+diabetes,,Clinical Trial,"Safety and Efficacy of Polyclonal Antibodies in Simultaneous Pancreas Kidney Transplant Recipients: Single-centre, Prospective, Observational Study",UNKNOWN,PHASE4,ClinicalTrials.gov API,2026-06-21
+diabetes,,Clinical Trial,Seed-alter Dyad Social Support Intervention for Rural Dwelling Older Adults With T2DM,COMPLETED,,ClinicalTrials.gov API,2026-06-21
+diabetes,,Clinical Trial,Switch of Open-source Automated Insulin Delivery System - AndroidAPS to Commercially Available AID Systems in Type 1 Diabetes: the Extension of the CODIAC Study,ACTIVE_NOT_RECRUITING,,ClinicalTrials.gov API,2026-06-21
+,semaglutide,FDA Drug Label,"OZEMPIC, RYBELSUS","Novo Nordisk Pharmaceutical Industries, LP",ORAL,openFDA API,2026-06-21
+,semaglutide,FDA Drug Label,Ozempic,A-S Medication Solutions,SUBCUTANEOUS,openFDA API,2026-06-21
+,semaglutide,FDA Drug Label,Ozempic,"Novo Nordisk Pharmaceutical Industries, LP",SUBCUTANEOUS,openFDA API,2026-06-21
+,semaglutide,FDA Drug Label,OZEMPIC,A-S Medication Solutions,SUBCUTANEOUS,openFDA API,2026-06-21
+,semaglutide,FDA Drug Label,WEGOVY,"Novo Nordisk Pharmaceutical Industries, LP","SUBCUTANEOUS, ORAL",openFDA API,2026-06-21

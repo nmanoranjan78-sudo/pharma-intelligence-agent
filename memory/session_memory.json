@@ -1,0 +1,60 @@
+[
+    {
+        "agent": "Clinical Trial Agent",
+        "status": "SUCCESS",
+        "last_run": "2026-06-20 16:15:00"
+    },
+    {
+        "agent": "FDA Approval Agent",
+        "status": "SUCCESS",
+        "last_run": "2026-06-20 16:58:00"
+    },
+    {
+        "timestamp": "2026-06-20 23:43:58",
+        "disease_query": "diabetes",
+        "drug_query": "semaglutide",
+        "trials_records_found": 5,
+        "fda_records_found": 5,
+        "report_generation_status": "Success",
+        "dashboard_data_status": "Success",
+        "dashboard_chart_status": "Success",
+        "evaluator_score": 100,
+        "evaluator_status": "PASS"
+    },
+    {
+        "timestamp": "2026-06-20 23:44:38",
+        "disease_query": "diabetes",
+        "drug_query": "semaglutide",
+        "trials_records_found": 5,
+        "fda_records_found": 5,
+        "report_generation_status": "Success",
+        "dashboard_data_status": "Success",
+        "dashboard_chart_status": "Success",
+        "evaluator_score": 100,
+        "evaluator_status": "PASS"
+    },
+    {
+        "timestamp": "2026-06-21 00:16:00",
+        "disease_query": "diabetes",
+        "drug_query": "semaglutide",
+        "trials_records_found": 5,
+        "fda_records_found": 5,
+        "report_generation_status": "Success",
+        "dashboard_data_status": "Success",
+        "dashboard_chart_status": "Success",
+        "evaluator_score": 100,
+        "evaluator_status": "PASS"
+    },
+    {
+        "timestamp": "2026-06-21 00:17:30",
+        "disease_query": "diabetes",
+        "drug_query": "semaglutide",
+        "trials_records_found": 5,
+        "fda_records_found": 5,
+        "report_generation_status": "Success",
+        "dashboard_data_status": "Success",
+        "dashboard_chart_status": "Success",
+        "evaluator_score": 100,
+        "evaluator_status": "PASS"
+    }
+]

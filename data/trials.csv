@@ -1,0 +1,6 @@
+disease,nct_id,study_title,status,phase,sponsor,source,retrieved_date
+diabetes,NCT05265741,"A Single Site, Observational, Administered to Pregnant Women at High Risk for Gestational Diabetes Mellitus",UNKNOWN,N/A,Long Island University,ClinicalTrials.gov API,2026-06-21
+diabetes,NCT05764629,An Observational Study of Risk Factors Influencing Glycemic Status and Optimized Treatment on Post-chronic Pancreatitis Diabetes Mellitus,ACTIVE_NOT_RECRUITING,N/A,Changhai Hospital,ClinicalTrials.gov API,2026-06-21
+diabetes,NCT03470961,"Safety and Efficacy of Polyclonal Antibodies in Simultaneous Pancreas Kidney Transplant Recipients: Single-centre, Prospective, Observational Study",UNKNOWN,PHASE4,Tianjin First Central Hospital,ClinicalTrials.gov API,2026-06-21
+diabetes,NCT04568486,Seed-alter Dyad Social Support Intervention for Rural Dwelling Older Adults With T2DM,COMPLETED,NA,Brittany L Smalls,ClinicalTrials.gov API,2026-06-21
+diabetes,NCT06709729,Switch of Open-source Automated Insulin Delivery System - AndroidAPS to Commercially Available AID Systems in Type 1 Diabetes: the Extension of the CODIAC Study,ACTIVE_NOT_RECRUITING,NA,"Charles University, Czech Republic",ClinicalTrials.gov API,2026-06-21

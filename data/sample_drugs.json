@@ -1,0 +1,86 @@
+{
+  "aspirin": {
+    "name": "Aspirin",
+    "fda": {
+      "brand_name": "Aspirin",
+      "generic_name": "Acetylsalicylic Acid",
+      "active_ingredient": "Aspirin 325 mg",
+      "purpose": "Pain reliever / Fever reducer",
+      "indications_and_usage": "For temporary relief of minor aches and pains due to headache, muscle pain, toothache, common cold, and minor arthritis pain.",
+      "warnings": "Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding.",
+      "side_effects": "Nausea, vomiting, stomach pain, heartburn, increased bleeding tendencies.",
+      "dosage_and_administration": "Adults and children 12 years and over: Take 1 to 2 tablets every 4 hours, not to exceed 12 tablets in 24 hours."
+    },
+    "pubchem": {
+      "cid": 2244,
+      "iupac_name": "2-acetyloxybenzoic acid",
+      "molecular_formula": "C9H8O4",
+      "molecular_weight": "180.16 g/mol",
+      "smiles": "CC(=O)OC1=CC=CC=C1C(=O)O",
+      "chemical_class": "Salicylates / Carboxylic Acids"
+    }
+  },
+  "ibuprofen": {
+    "name": "Ibuprofen",
+    "fda": {
+      "brand_name": "Advil / Motrin",
+      "generic_name": "Ibuprofen",
+      "active_ingredient": "Ibuprofen 200 mg",
+      "purpose": "Pain reliever / Fever reducer (NSAID)",
+      "indications_and_usage": "Temporarily relieves minor aches and pains due to headache, muscular aches, minor pain of arthritis, toothache, backache, the common cold, menstrual cramps.",
+      "warnings": "Allergy alert: Ibuprofen may cause a severe allergic reaction. Cardiovascular risk: NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke.",
+      "side_effects": "Acid or sour stomach, diarrhea, flatulence, bloating, dizziness, skin itching or rash.",
+      "dosage_and_administration": "Adults and children 12 years and over: Take 1 tablet every 4 to 6 hours while symptoms persist. Do not exceed 6 tablets in 24 hours unless directed by a doctor."
+    },
+    "pubchem": {
+      "cid": 3672,
+      "iupac_name": "2-[4-(2-methylpropyl)phenyl]propanoic acid",
+      "molecular_formula": "C13H18O2",
+      "molecular_weight": "206.29 g/mol",
+      "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)O",
+      "chemical_class": "Propionic Acid Derivatives"
+    }
+  },
+  "paracetamol": {
+    "name": "Paracetamol",
+    "fda": {
+      "brand_name": "Tylenol",
+      "generic_name": "Acetaminophen",
+      "active_ingredient": "Acetaminophen 500 mg",
+      "purpose": "Pain reliever / Fever reducer",
+      "indications_and_usage": "Temporarily relieves minor aches and pains due to the common cold, headache, backache, minor pain of arthritis, toothache, muscular aches, premenstrual and menstrual cramps.",
+      "warnings": "Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, take with other drugs containing acetaminophen, or consume 3 or more alcoholic drinks daily.",
+      "side_effects": "Skin rash, hives, itching, swelling of the face, difficulty breathing or swallowing.",
+      "dosage_and_administration": "Adults and children 12 years and over: Take 2 gelcaps every 6 hours while symptoms last. Do not take more than 6 gelcaps in 24 hours unless directed by a doctor."
+    },
+    "pubchem": {
+      "cid": 1983,
+      "iupac_name": "N-(4-hydroxyphenyl)acetamide",
+      "molecular_formula": "C8H9NO2",
+      "molecular_weight": "151.16 g/mol",
+      "smiles": "CC(=O)NC1=CC=C(O)C=C1",
+      "chemical_class": "Acetamides / Phenols"
+    }
+  },
+  "metformin": {
+    "name": "Metformin",
+    "fda": {
+      "brand_name": "Glucophage",
+      "generic_name": "Metformin Hydrochloride",
+      "active_ingredient": "Metformin Hydrochloride 500 mg",
+      "purpose": "Antidiabetic agent",
+      "indications_and_usage": "As an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
+      "warnings": "Lactic acidosis: Lactic acidosis is a rare, but serious, metabolic complication that can occur due to metformin accumulation during treatment.",
+      "side_effects": "Diarrhea, nausea, vomiting, flatulence, asthenia, indigestion, abdominal discomfort, headache.",
+      "dosage_and_administration": "Starting dose is 500 mg orally twice a day or 850 mg once a day, taken with meals. Increase in increments of 500 mg weekly or 850 mg every 2 weeks."
+    },
+    "pubchem": {
+      "cid": 4091,
+      "iupac_name": "3-(diaminomethylidene)-1,1-dimethylguanidine",
+      "molecular_formula": "C4H11N5",
+      "molecular_weight": "129.16 g/mol",
+      "smiles": "CN(C)C(=N)NC(=N)N",
+      "chemical_class": "Biguanides"
+    }
+  }
+}
