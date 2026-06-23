@@ -173,14 +173,18 @@ Following a successful run, the following artifacts are generated:
 
 ## 📸 Screenshots
 
-> [!NOTE]
-> *Placeholder for CLI terminal executions and dashboard chart visuals.*
-
 ### Terminal Console Output
-*Insert screenshot of the terminal displaying the rich table summarizing pipeline outputs*
+![Terminal Console Output](screenshots/app_run.png)
 
-### Generated Data Visualizations (`reports/dashboard_chart.png`)
-*Insert screenshot of the generated bar chart plotting clinical trial phases or recruitment status*
+### Generated Data Visualizations (reports/dashboard_chart.png)
+![Dashboard Chart](screenshots/dashboard_chart.png)
+
+### Executive Briefing (reports/executive_briefing.md)
+![Executive Briefing](screenshots/executive_briefing.png)
+
+### Evaluation Scorecard (reports/evaluation_results.md)
+![Evaluation Scorecard](screenshots/evaluation_results.png)
+
 
 ---
 

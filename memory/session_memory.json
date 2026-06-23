@@ -56,5 +56,29 @@
         "dashboard_chart_status": "Success",
         "evaluator_score": 100,
         "evaluator_status": "PASS"
+    },
+    {
+        "timestamp": "2026-06-21 01:37:39",
+        "disease_query": "diabetes",
+        "drug_query": "semaglutide",
+        "trials_records_found": 5,
+        "fda_records_found": 5,
+        "report_generation_status": "Success",
+        "dashboard_data_status": "Success",
+        "dashboard_chart_status": "Success",
+        "evaluator_score": 100,
+        "evaluator_status": "PASS"
+    },
+    {
+        "timestamp": "2026-06-21 04:25:34",
+        "disease_query": "diabetes",
+        "drug_query": "semaglutide",
+        "trials_records_found": 5,
+        "fda_records_found": 5,
+        "report_generation_status": "Success",
+        "dashboard_data_status": "Success",
+        "dashboard_chart_status": "Success",
+        "evaluator_score": 100,
+        "evaluator_status": "PASS"
     }
 ]

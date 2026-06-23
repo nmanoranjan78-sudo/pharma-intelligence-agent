@@ -1,10 +1,16 @@
 # Pharma Intelligence Agent Architecture
 
+![Architecture Diagram Thumbnail](../screenshots/architecture_thumbnail.png)
+
 This document provides a beginner-friendly overview of the system architecture of the Pharma Intelligence Agent. It outlines the sequence of execution, the relationships between different agents and tools, and how data flows through the application.
 
 ## Workflow Overview
 
 The application utilizes a **coordinator-agent pattern**. The execution flow is orchestrated by the [PlannerAgent](file:///c:/Users/nmano/pharma-intelligence-agent/agents/planner_agent.py), which coordinates fetching clinical trials, retrieving FDA drug approvals, synthesizing reports, building dashboard datasets, plotting charts, and running a final evaluation check.
+
+![System Architecture Diagram](architecture_diagram.png)
+
+### Mermaid Flowchart
 
 ```mermaid
 graph TD
